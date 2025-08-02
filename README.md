@@ -1,11 +1,11 @@
 # Projects
-# 🧾 Análisis Exploratorio de Datos sobre Propinas (EDA - Tips Dataset)
+# Análisis Exploratorio de Datos sobre Propinas (EDA - Tips Dataset)
 
 Este proyecto es un análisis exploratorio de datos (EDA) utilizando el famoso dataset `tips` integrado en Seaborn. El objetivo principal es descubrir patrones y relaciones entre variables que afectan el monto de las propinas dadas en un restaurante.
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 El dataset utilizado viene de la librería `seaborn` y contiene información sobre:
 
@@ -19,7 +19,7 @@ El dataset utilizado viene de la librería `seaborn` y contiene información sob
 
 ---
 
-## 🎯 Objetivos del Análisis
+## Objetivos del Análisis
 
 - Comparar el comportamiento de propina entre hombres y mujeres.
 - Analizar si los fumadores dan más propina que los no fumadores.
@@ -29,7 +29,7 @@ El dataset utilizado viene de la librería `seaborn` y contiene información sob
 
 ---
 
-## 🛠️ Herramientas Utilizadas
+## Herramientas Utilizadas
 
 - Python 3.x
 - Pandas
@@ -39,7 +39,7 @@ El dataset utilizado viene de la librería `seaborn` y contiene información sob
 
 ---
 
-## 📊 Principales Conclusiones
+## Principales Conclusiones
 
 - **Las cenas generan más propinas** que los almuerzos, tanto en monto como en frecuencia.
 - **Los grupos grandes** tienden a dejar más propinas en términos absolutos, pero no proporcionalmente.
@@ -47,7 +47,4 @@ El dataset utilizado viene de la librería `seaborn` y contiene información sob
 - **Los viernes y sábados** son los días con mayores montos de propina.
 - Existe una **alta correlación entre el total de la cuenta y la propina**.
 
----
-
-## 📁 Estructura del Proyecto
 
